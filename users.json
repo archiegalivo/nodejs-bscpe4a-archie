@@ -1,0 +1,22 @@
+{
+   "myFamily1" : {
+      "name" : "galivo",
+      "password" : "password1",
+      "classmate" : "bscpe",
+      "id": 1
+   },
+   
+   "myFamily2" : {
+      "name" : "delos santos",
+      "password" : "password2",
+      "classmate" : "bscpe",
+      "id": 2
+   },
+   
+   "myFamily3" : {
+      "name" : "flores",
+      "password" : "password3",
+      "classmate" : "bscpe",
+      "id": 3
+   }
+}
